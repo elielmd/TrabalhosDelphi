@@ -1,4 +1,4 @@
-object Form1: TForm1
+object FLanche: TFLanche
   Left = 0
   Top = 0
   Caption = 'SUBIRL'
@@ -26,7 +26,7 @@ object Form1: TForm1
     Font.Style = []
     ParentFont = False
   end
-  object Label2: TLabel
+  object LBTotalPagar: TLabel
     Left = 320
     Top = 440
     Width = 64
@@ -34,8 +34,8 @@ object Form1: TForm1
     Caption = 'Total a Pagar'
   end
   object Label3: TLabel
-    Left = 112
-    Top = 24
+    Left = 96
+    Top = 16
     Width = 250
     Height = 26
     Caption = 'MONTE SEU LANCHE'
